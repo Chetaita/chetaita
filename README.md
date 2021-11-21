@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub 👋
+
+- 😄 Pronouns: She/Her
+- About Me: A learner forever, I am always keen to work and explore new technologies. 
+- 🔭 I’m currently working as a ML engineer in financial services domain.
 
 <!--
 **Chetaita/chetaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
